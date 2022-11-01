@@ -1,0 +1,16 @@
+{
+  "title": "Metalsmith Static CMS Starter",
+  "description": "Metalsmith Starter with Static CMS integration",
+  "author": "werner@glinka.co",
+  "siteURL": "https://static-cms-metalsmith.netlify.app/",
+  "siteOwner": "Werner Glinka",
+  "validate": {
+    "google": "",
+    "ms": ""
+  },
+  "social": {
+    "linkedIn": "",
+    "github": ""
+  },
+  "socialImage": "assets/images/metalsmith-starter-social.png"
+}
