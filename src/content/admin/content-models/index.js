@@ -2,9 +2,7 @@ import pages from "./pages.js";
 import posts from "./posts.js";
 import data from "./data.js";
 
-const { CMS, initCMS: init } = window;
-
-init({
+CMS.init({
   config: {
     backend: {
       name: "git-gateway",
